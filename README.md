@@ -7,5 +7,5 @@ For more information on single-frame IBP, kindly refer the following papers:
 1. Yang C-H, Ma C, Yang M-H. 2014. Single-image super-resolution: A benchmark. In: European conference on computer vision; 2014; Berlin, Heidelberg: Springer. p.372-386
 2. Elad M, Feuer A. 1996. Super-resolution reconstruction of an image. In: Proceedings of 19th Convention of Electrical and Electronics Engineers in Israel; 1996: IEEE. p.391-394
 For more information on multi-frame IBP, kindly refer the following paper:
-Irani M, Peleg S. 1991. Improving resolution by image registration. CVGIP: Gr Models Image Process. 53(3):231-239
+1. Irani M, Peleg S. 1991. Improving resolution by image registration. CVGIP: Gr Models Image Process. 53(3):231-239
 
