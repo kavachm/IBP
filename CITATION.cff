@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Implementation of iterative back projection (IBP)
+  algorithm for super-resolving a single remotely
+  sensed hyperspectral image
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kavach
+    family-names: Mishra
+    email: kmishra@ce.iitr.ac.in
+    affiliation: Indian Institute of Technology Roorkee
+    orcid: 'https://orcid.org/0000-0002-9893-8149'
+  - family-names: Garg
+    given-names: Rahul Dev
+    name-particle: Dr
+    email: rdgarg@ce.iitr.ac.in
+    affiliation: Indian Institute of Technology Roorkee
+    orcid: 'https://orcid.org/0000-0003-3684-8962'
+identifiers:
+  - type: url
+    value: 'https://github.com/laserlight-cell/IBP/'
+keywords:
+  - single-frame super resolution
+  - hyperspectral remote sensing
